@@ -1,0 +1,3 @@
+baseURL = 'http://cr-hugo-cms.netlify.app/'
+languageCode = 'en-us'
+title = 'A Netlifycms starter'
